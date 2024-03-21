@@ -1,0 +1,16 @@
+.sub-header {
+  p {
+    color: gray;
+    font-size: 20px;
+  }
+  h1 {
+    color: white;
+    font-size: 5rem;
+  }
+}
+.desc {
+  p {
+    color: gray;
+    font-size: 20px;
+  }
+}
